@@ -1,4 +1,4 @@
-# Product-Clustering-for-Online-Retail-Store
+Product Clustering for Online Retail Store
 
 Project Overview
 
